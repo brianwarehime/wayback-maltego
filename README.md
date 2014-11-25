@@ -16,8 +16,8 @@ Requests Python Module
 $ git clone git@github.com:brianwarehime/wayback-maltego.git
 In Maltego, click on Maltego icon > Import > Import Configuration
 Select wayback.mtz
-You will need to edit the transform to reflect the path you installed the transform in. To do this, open the "Manage Transforms" window, then select the "To Wayback Machine" transform, then under working directory, change this to the path you downloaded the tranform to. If you're using Windows, you'll also need to change the path of your Python install.
 ```
+You will need to edit the transform to reflect the path you installed the transform in. To do this, open the "Manage Transforms" window, then select the "To Wayback Machine" transform, then under working directory, change this to the path you downloaded the tranform to. If you're using Windows, you'll also need to change the path of your Python install.
 
 ### Using wayback-maltego
 
